@@ -12,11 +12,11 @@ Website portofolio pribadi saya yang menampilkan informasi tentang diri saya, ke
 
 ## 🛠️ Teknologi
 - HTML5, CSS3, JavaScript
-- [Tambahkan framework yang digunakan, misalnya: React, Next.js, atau TailwindCSS]
+- React, Next.js, atau TailwindCSS
 
 ## 🚀 Instalasi & Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/refanalfajri/refanalfajri-repo.git
+   cd refanalfajri-repo
 # Website
